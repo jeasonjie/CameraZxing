@@ -13,7 +13,7 @@ import com.planet.camerazxing.R;
 
 public class MyWebActivity extends AppCompatActivity {
 
-    String baseUrl = "http://47.93.31.167/goodsinfosearch/index.html?upc=";
+    String baseUrl = "";
 
     WebView webView = null;
 

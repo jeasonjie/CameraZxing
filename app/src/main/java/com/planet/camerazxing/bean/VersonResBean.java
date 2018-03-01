@@ -1,7 +1,7 @@
 package com.planet.camerazxing.bean;
 
 /**
- * Created by Administrator on 2018/2/8.
+ * Created by planet on 2018/2/8.
  */
 
 public class VersonResBean {

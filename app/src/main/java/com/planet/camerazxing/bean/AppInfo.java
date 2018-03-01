@@ -1,7 +1,7 @@
 package com.planet.camerazxing.bean;
 
 /**
- * Created by lyy on 2016/9/15.
+ * Created by planet on 2016/9/15.
  */
 public class AppInfo {
     public static int isCheckUp = 0;

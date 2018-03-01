@@ -10,8 +10,6 @@ import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.text.TextUtils;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -24,10 +22,6 @@ import com.google.zxing.client.android.CaptureActivity;
 import com.google.zxing.client.android.Intents;
 import com.planet.camerazxing.R;
 import com.planet.camerazxing.util.Utils;
-import com.zywx.wbpalmstar.engine.universalex.EUExCallback;
-
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,7 +30,7 @@ import java.util.TimerTask;
 
 
 /**
- * Created by Neusoft on 2016/9/9.
+ * Created by planet on 2016/9/9.
  */
 public class HomeFragment extends Fragment {
 

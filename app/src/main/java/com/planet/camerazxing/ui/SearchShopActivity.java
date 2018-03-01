@@ -32,7 +32,7 @@ public class SearchShopActivity extends AppCompatActivity {
 //        webSettings.setLoadsImagesAutomatically(true); //支持自动加载图片
         webSettings.setDefaultTextEncodingName("utf-8");//设置编码格式
 
-        webView.loadUrl("http://47.93.31.167/goodsinfosearch/searchbyname.html");
+        webView.loadUrl("");
         webView.setWebViewClient(new WebViewClient(){
             @Override
             public boolean shouldOverrideUrlLoading(WebView view, String url) {

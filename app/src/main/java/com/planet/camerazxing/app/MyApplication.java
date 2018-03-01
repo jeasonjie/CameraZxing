@@ -9,7 +9,7 @@ import com.planet.camerazxing.bean.AppInfo;
 import com.zywx.wbpalmstar.engine.universalex.EUExUtil;
 
 /**
- * Created by Administrator on 2018/2/8.
+ * Created by planet on 2018/2/8.
  */
 
 public class MyApplication extends Application {

@@ -16,7 +16,7 @@ public class Const {
     static {
         if (BuildConfig.DEBUG) {
             //测试版本app更新地址
-            WEB_update = "http://115.28.38.250:4789/AppMarket/reqinterface/versioncheck.do";
+            WEB_update = "";
         } else {
             //正式版地址
             WEB_update = "";
