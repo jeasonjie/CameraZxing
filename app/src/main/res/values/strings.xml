@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">商品管理</string>
+
+    <!-- plugin_uexScanner -->
+    <string name="plugin_uexscanner_not_support_flash">设备不支持闪光灯</string>
+    <string name="plugin_uexscanner_msg_default_status">将二维码/条形码放置框内，即开始扫描</string>
+    <string name="plugin_uexscanner_msg_scanning">正在扫描</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">商品识别</string>
+    <string name="title_notifications">查证及管理</string>
+    <string name="title_setting">设置</string>
+    <string name="app_tips_loading">正在发送请求…</string>
+    <string name="app_update_loading">正在检查更新…</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

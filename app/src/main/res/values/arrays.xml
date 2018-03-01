@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home">
+        <item>商品查证</item>
+        <item>条码识别</item>
+        <item>信息维护</item>
+        <item>业务管理</item>
+        <item>图像识别</item>
+        <item>系统设置</item>
+    </string-array>
+
+</resources>
